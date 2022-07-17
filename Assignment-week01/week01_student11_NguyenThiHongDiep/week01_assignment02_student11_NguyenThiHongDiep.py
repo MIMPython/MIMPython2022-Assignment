@@ -1,0 +1,3 @@
+a. VS Code là một phần mềm mã nguồn mở, vì đây là phần mềm mà code của chúng được công khai để mọi người đều có thể tải xuống để sử dụng, chỉnh sửa và tùy biến.
+b. Hai Text Editor khác có chức năng tương tự VS Code: Netbeans và Sublime Text.
+c. Vim khá khó sử dụng với người mới. Visual Studio Code rất nhanh, rất nhẹ và cũng rất mạnh; nó hỗ trợ hầu hết các ngôn ngữ lập trình như: Python, JavaScript, HTML, CSS, TypeScript, C++, Java, PHP, Go, C, SQL, Ruby,...
