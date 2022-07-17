@@ -1,0 +1,7 @@
+print("Bài 1: Python")
+print("Ngôn ngữ lập trình Python được tạo ra bởi Guido Van Rossum và chính thức ra mắt vào tháng 2 năm 1991.")
+print("-" * 30)
+print("Tác giả đặt tên Python theo tên của nhóm hài nổi tiếng người Anh: Monty Python.")
+print("-" * 30)
+print("Tính tới ngày 13/07/2022, phiên bản Python mới nhất được phát hành là bản 3.10.5.")
+print("-" * 30)
