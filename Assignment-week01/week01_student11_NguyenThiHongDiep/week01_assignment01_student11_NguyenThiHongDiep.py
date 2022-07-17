@@ -1,0 +1,3 @@
+a. Ngôn ngữ Lập trình Python được tạo ra bởi Lập trình viên người Hà Lan Guido van Rossum vào cuối những năm 1980 và chính thức ra mắt vào tháng 2 năm 1991.
+b. Rossum là fan của một series chương trình hài cuối những năm 1970, và cái tên "Python" được lấy từ tên một phần trong series đó "Monty Python’s Flying Circus".
+c. Tính tới ngày 13/07/2022, phiên bản Python mới nhất được phát hành là phiên bản 3.11.0b4. 
