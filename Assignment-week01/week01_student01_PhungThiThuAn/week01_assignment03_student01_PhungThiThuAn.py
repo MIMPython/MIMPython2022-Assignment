@@ -1,7 +1,0 @@
-print("Bài 3: pip")
-print("pip cho phép chúng ta cài đặt và quản lý các gói PyPI.")
-print("-" * 30)
-print("Câu lệnh \"pip freeze\" có ý nghĩa là hiện ra hết các package được cài đặt thông qua pip (hoặc pipenv).")
-print("-" * 30)
-print("Công cụ khác có chức năng giống pip là: conda, pipenv,...")
-print("-" * 30)

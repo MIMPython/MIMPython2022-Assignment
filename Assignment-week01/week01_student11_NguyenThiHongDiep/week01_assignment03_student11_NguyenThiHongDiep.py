@@ -1,3 +1,0 @@
-a. pip là một trình quản lý thư viện cho Python, viết tắt của từ Preferred Installer Program. Đây là một tiện ích dòng lệnh cho phép bạn cài đặt, cài đặt lại hoặc gỡ cài đặt các gói PyPI bằng một dòng lệnh đơn giản và dễ hiểu.
-b. Câu lệnh pip freeze sẽ hiển thị tất cả các package cùng phiên bản đã được cài đặt, nhưng kết quả trả về sẽ được trình bày sao cho phù hợp để làm đầu vào cho lệnh pip install. Thông thường kết quả này sẽ được ghi ra file requirements.txt.
-c. Một công cụ khác có chức năng tương tự pip: Conda, Pipenv.
