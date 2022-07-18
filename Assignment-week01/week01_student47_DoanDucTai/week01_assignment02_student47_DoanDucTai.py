@@ -1,0 +1,8 @@
+a) VS Code là một phần mềm mã nguồn mở. Vì cũng cho phép công chúng tùy chỉnh, do đó, người dùng có thể thay đổi theme, phím tắt, và các tùy chọn khác
+b) Chỉ ra ít nhất hai text editor khác có chức năng tương tự VS Code.
+    "Atom Editor" là một trình soạn thảo tuyệt vời khác và nó đến từ nhóm github.
+    "Sublime Text Editor" là một trình soạn thảo nhẹ cho phép bạn viết code bằng nhiều ngôn ngữ, đặc biệt là với các gói và plugin có sẵn.
+    "PyCharm Editor" là IDE (Môi trường phát triển tích hợp) của bên thứ ba, JetBrains. Nó là một trong những IDE được các nhà phát triển web sử dụng rộng rãi nhất. Nó cung cấp cho chúng ta tất cả các công cụ cần thiết.
+c) Vi có nguồn gốc từ chữ viết tắt rõ ràng ngắn nhất cho lệnh ex visual. Vi là một trình soạn thảo văn bản hướng màn hình ban đầu được tạo cho hệ điều hành Unix . Vì vậy Vi được khá nhiều người sử dụng.
+    Visual Studio Code là một trình soạn thảo mã nguồn được phát triển bởi Microsoft dành cho Windows, Linux và macOS. Trong cuộc khảo sát vào năm 2018 trên Stack Overflow, Visual Studio Code được xếp hạng là trình biên tập mã phổ biến nhất, với 34.9% của 75398 người đang sử dụng nó.
+    Do đó VS Code là ứng dụng được khuyên dùng bởi vì nó hỗ trợ chức năng debug, đi kèm với Git, có chức năng nổi bật cú pháp (syntax highlighting), tự hoàn thành mã thông minh, snippets, và cải tiến mã nguồn. Nó cũng cho phép tùy chỉnh, do đó, người dùng có thể thay đổi theme, phím tắt, và các tùy chọn khác.
