@@ -1,0 +1,4 @@
+# %% [markdown]
+# a. pip là trình quản lý các tiến trình được sử dụng trong Python và được cài đặt mặc định từ Python 3. pip giúp người dùng cài đặt những thư viện không nằm trong thư viện chuẩn của Python.
+# b. pip frezze có tác dụng: "output installed packages in requirements format" có nghĩa là xuất ra những thư viện đã cài đặt theo một định dạng yêu cầu. Sau đó ta có thể dùng dữ liệu đã xuất ra đó để cài đặt ở nơi khác. Trong trường hợp ta chạy mã Python của ta tại một máy khác mà vô tình mã của ta sử dụng một thư viện mà máy mới chưa có. Ta cần sử dụng tác vụ này để thông báo cho máy mới cài đặt những thư viện cần thiết cho việc chạy chương trình của ta, khác với Java "write once run everywhere."
+# c. Một công cụ tương tự như pip trong Python là apt - Advanced Package Tool, là công cụ quản lý gói dành cho Debian và những phiên bản của nó như Linux mint, Ubuntu,... giúp quản lý cài đặt các gói lệnh các thư viện mới như awk, dialog,... trên Linux.
