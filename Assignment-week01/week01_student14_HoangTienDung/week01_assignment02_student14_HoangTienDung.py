@@ -1,0 +1,3 @@
+a. VS Code là phần mềm mã nguồn mở, vì có khả năng vận hành mạnh mẽ trên 3 nền tảng là Windows, Linux và macOS được phát triển bởi Microsoft. Nó hỗ trợ cho JavaScript, Node.js và TypeScript, cũng như cung cấp một hệ sinh thái mở rộng vô cùng phong phú cho nhiều ngôn ngữ lập trình khác.
+b. Text editor có chức năng tương tự như VS Code là Sublime Text, Nodepad++, Gedit.
+c. Ý nghĩa của meme sau : “Khi mọi người hỏi tôi đề xuất cho họ nên sử dụng một text editor nào đó”. Ban đầu khi thấy 2 chữ “VI”, mọi người nghĩ rằng tôi đang nói về “vim” nhưng thực ra cái tôi muốn nói đến là “visual code studio”.
