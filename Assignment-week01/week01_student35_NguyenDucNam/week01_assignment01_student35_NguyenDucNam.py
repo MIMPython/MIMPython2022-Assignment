@@ -1,0 +1,3 @@
+a, Python là một ngôn ngữ lập trình thông dịch được phổ biến vào năm 1991, ngôn ngữ này được tạo ra vào cuối những năm 1980 bởi lập trình viên người Hà Lan Guido van Rossum
+b, Và đến thời điểm để phổ biến ngôn ngữ này thì Van Rossum muốn có tên gọi sáng tạo dựa trên các tiêu chí như ngắn, độc đáo và một chút bí ẩn. Ông đã tìm thấy nguồn cảm hứng khi xem chương trình của nhóm hài nổi tiếng người Anh: Monty Python.
+c, Tính đến ngày 13/7/2022, phiên bản Python mới nhất được phát hành là phiên bản Python 3.10.5
