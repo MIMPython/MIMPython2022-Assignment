@@ -1,0 +1,8 @@
+print("Nhap ten hoc vien")
+nameOfStudent = input()
+print("Nhap so thu tu tuan hoc")
+week = input()
+print("Nhap so thu tu bai tap")
+assignment = input()
+print("Ten file .py tuong ung la:")
+print("week"+week+"_"+"assignment"+assignment+"_"+nameOfStudent+".py")
