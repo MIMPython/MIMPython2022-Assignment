@@ -1,0 +1,3 @@
+# giải thích meme:
+# con công (vòng lặp while): vòng lặp while đề cập đến một câu lệnh luồng điều khiển về cơ bản cho phép thực thi mã trên cơ sở bất kỳ điều kiện Boolean nhất định nào. Do đó, chúng ta có thể coi vòng lặp while là một loại câu lệnh lặp lại nó .
+# con sói (vòng lặp do-while): Vòng lặp do-while rất giống với vòng lặp while. Nhưng sự khác biệt duy nhất là vòng lặp này kiểm tra các điều kiện có sẵn sau khi chúng tôi kiểm tra một câu lệnh.
