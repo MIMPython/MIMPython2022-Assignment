@@ -22,10 +22,19 @@ nameWithoutAccent = 'TranThanhTung'
 ```
 
 Trong đó:
-`zipzipAssignmentFolderPath`: đường dẫn đến file zip chứa bài tập
-`week`: tuần muốn kiểm tra
-`numberOfAssignments`: số lượng bài tập tối đa của tuần
-`nameWithoutAccent`: họ tên viết liên không dấu của sinh viên
+- `zipzipAssignmentFolderPath`: đường dẫn đến file zip chứa bài tập
+- `week`: tuần muốn kiểm tra
+- `numberOfAssignments`: số lượng bài tập tối đa của tuần
+- `nameWithoutAccent`: họ tên viết liên không dấu của sinh viên
 
 Cài đặt thư viện cần thiết
-`pip install -r requirements.txt`
+
+    pip install -r requirements.txt
+
+Clone repository
+
+    git clone https://github.com/MIMPython/MIMPython2022-Assignment
+
+Chạy chương trình
+
+    python validCode.py
