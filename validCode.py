@@ -39,15 +39,15 @@ for folder in os.listdir(extractPath):
                                                     nameWithoutAccent)
         for file in os.listdir(extractPath / folder):
             if file == 'additionalFolder':
-                if os.path.isdir(extractPath / folder / file):
-                    continue
-                else:
-                    mistakes.append({'mistake': 'wrongName', 'description': file})
-            if file not in allCorrectFilename:
-                mistakes.append({'mistake': 'wrongName', 'description': file})
-            numberCharactersInFile = getNumberOfCharactersInFile(extractPath / folder / file)
-            if numberCharactersInFile == 0:
-                mistakes.append({'mistake': 'emptyFile', 'description': file})
+                continue
+            if file not in allCorrectFilename or os.path.isdir(extractPath / folder / file):
+                mistakes.append({'ID': studentID, 'mistake': 'wrongName', 'description':file})
+                correct = False
+            else:
+                sizeOfFile = getNumberOfCharactersInFile(extractPath / folder / file)
+                if sizeOfFile < 1:
+                    mistakes.append({'ID': studentID, 'mistake': 'emptyFile', 'description':file})
+                    correct = False
 
 mistakesDf = pd.DataFrame(mistakes)
 if len(mistakes) == 0:
