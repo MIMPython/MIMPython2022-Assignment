@@ -1,0 +1,2 @@
+Hello World! 
+Đã ghi nội dung file bằng vscode
