@@ -1,0 +1,1187 @@
+,FILE,TYPE
+0,week06_student06_NguyenNgocAnh,folder
+1,additionalFolder,folder
+2,TimeTablingDataset,folder
+3,examinationTimetablingDataset,folder
+4,BIO2043 CLCCNS.csv,file
+5,BIO2044.csv,file
+6,BIO2045 1.csv,file
+7,BIO2045 2.csv,file
+8,BIO2045E 1CLCCNS.csv,file
+9,BIO2045E 2CLCCNS.csv,file
+10,BIO2045E 3CLCCNS.csv,file
+11,BIO2088 1.csv,file
+12,BIO2088 2.csv,file
+13,BIO2088 3.csv,file
+14,BIO2088 4.csv,file
+15,BIO2089 TNS.csv,file
+16,BIO2092.csv,file
+17,BIO2127 1CLCCNS.csv,file
+18,BIO2127 2CLCCNS.csv,file
+19,BIO2201 1.csv,file
+20,BIO2201 2.csv,file
+21,BIO2201 3.csv,file
+22,BIO2201 4.csv,file
+23,BIO2202 1.csv,file
+24,BIO2202 2.csv,file
+25,BIO2202 3.csv,file
+26,BIO2202 4.csv,file
+27,BIO2202 5.csv,file
+28,BIO2202 6.csv,file
+29,BIO2202 7.csv,file
+30,BIO2202 8.csv,file
+31,BIO2203 1.csv,file
+32,BIO2203 2.csv,file
+33,BIO2203 3.csv,file
+34,BIO2203 4.csv,file
+35,BIO2203 5.csv,file
+36,BIO2203 6.csv,file
+37,BIO2203 7.csv,file
+38,BIO2204 1.csv,file
+39,BIO2204 2.csv,file
+40,BIO2204 3.csv,file
+41,BIO2204 4.csv,file
+42,BIO2205 CLCCNS.csv,file
+43,BIO2206 1.csv,file
+44,BIO2206 2.csv,file
+45,BIO2206 3.csv,file
+46,BIO2208 1.csv,file
+47,BIO2210 1.csv,file
+48,BIO2210 2.csv,file
+49,BIO2210 3.csv,file
+50,BIO2210 4.csv,file
+51,BIO2210 5.csv,file
+52,BIO2210 6.csv,file
+53,BIO2210 7CLCRHM.csv,file
+54,BIO2210 8CLCRHM.csv,file
+55,BIO2215E 1CLCCNS.csv,file
+56,BIO2215E 2CLCCNS.csv,file
+57,BIO2215E 3CLCCNS.csv,file
+58,BIO2215E 4CLCCNS.csv,file
+59,BIO2215E 5CLCCNS.csv,file
+60,BIO2215E 6CLCCNS.csv,file
+61,BIO2218 1.csv,file
+62,BIO2218 10CLCCNS.csv,file
+63,BIO2218 11CLCCNS.csv,file
+64,BIO2218 12CLCCNS.csv,file
+65,BIO2218 13CLCCNS.csv,file
+66,BIO2218 2.csv,file
+67,BIO2218 3.csv,file
+68,BIO2218 4.csv,file
+69,BIO2218 5.csv,file
+70,BIO2218 6.csv,file
+71,BIO2218 7.csv,file
+72,BIO2218 8CLCCNS.csv,file
+73,BIO2218 9CLCCNS.csv,file
+74,BIO2218E QTS.csv,file
+75,BIO2220 1.csv,file
+76,BIO2220 2.csv,file
+77,BIO2220 3.csv,file
+78,BIO2220 4.csv,file
+79,BIO2223 2.csv,file
+80,BIO2223 TNS.csv,file
+81,BIO2224 TNS.csv,file
+82,BIO2400 1CLCCNS.csv,file
+83,BIO2400 2CLCCNS.csv,file
+84,BIO2400E 1CLCCNS.csv,file
+85,BIO2400E 2CLCCNS.csv,file
+86,BIO2400E 3CLCCNS.csv,file
+87,BIO2400E 4CLCCNS.csv,file
+88,BIO2400E 5CLCCNS.csv,file
+89,BIO2400E 6CLCCNS.csv,file
+90,BIO2403E 1CLCCNS.csv,file
+91,BIO2403E 2CLCCNS.csv,file
+92,BIO2403E 3CLCCNS.csv,file
+93,BIO2403E 4CLCCNS.csv,file
+94,BIO2403E 5CLCCNS.csv,file
+95,BIO2403E 6CLCCNS.csv,file
+96,BIO2403E 7CLCCNS.csv,file
+97,BIO2403E 8CLCCNS.csv,file
+98,BIO2403E 9CLCCNS.csv,file
+99,BIO2405E QTS.csv,file
+100,BIO2504 TNS.csv,file
+101,BIO2514 1CLCCNS.csv,file
+102,BIO2514 2CLCCNS.csv,file
+103,BIO2516 1CLCCNS.csv,file
+104,BIO2516 2CLCCNS.csv,file
+105,BIO2516 3CLCCNS.csv,file
+106,BIO2516 4CLCCNS.csv,file
+107,BIO2516 5CLCCNS.csv,file
+108,BIO2516 6CLCCNS.csv,file
+109,BIO2800 1CLCCNS.csv,file
+110,BIO2800 2CLCCNS.csv,file
+111,BIO2800 3CLCCNS.csv,file
+112,BIO2800 4CLCCNS.csv,file
+113,BIO2800 5CLCCNS.csv,file
+114,BIO2800 6CLCCNS.csv,file
+115,BIO3001.csv,file
+116,BIO3098.csv,file
+117,BIO3099.csv,file
+118,BIO3169.csv,file
+119,BIO3178 1CLCCNS.csv,file
+120,BIO3178 2CLCCNS.csv,file
+121,BIO3178 3CLCCNS.csv,file
+122,BIO3178 4CLCCNS.csv,file
+123,BIO3178 5CLCCNS.csv,file
+124,BIO3178 6CLCCNS.csv,file
+125,BIO3178 7CLCCNS.csv,file
+126,BIO3178 8CLCCNS.csv,file
+127,BIO3178 9CLCCNS.csv,file
+128,BIO3182 1CLCCNS.csv,file
+129,BIO3182 2CLCCNS.csv,file
+130,BIO3182 3CLCCNS.csv,file
+131,BIO3182 4CLCCNS.csv,file
+132,BIO3182 5CLCCNS.csv,file
+133,BIO3182 6CLCCNS.csv,file
+134,BIO3190.csv,file
+135,BIO3191.csv,file
+136,BIO3201 1.csv,file
+137,BIO3201 2.csv,file
+138,BIO3201 3.csv,file
+139,BIO3201 4.csv,file
+140,BIO3227E QTS.csv,file
+141,BIO3245.csv,file
+142,BIO3246.csv,file
+143,BIO3252 1.csv,file
+144,BIO3252 2.csv,file
+145,BIO3252 3.csv,file
+146,BIO3252E QTS.csv,file
+147,BIO3257 TNS.csv,file
+148,BIO3258 1.csv,file
+149,BIO3258 2.csv,file
+150,BIO3258 3.csv,file
+151,BIO3258E QTS.csv,file
+152,BIO3262 1TNS.csv,file
+153,BIO3262 2TNS.csv,file
+154,BIO3263 TNS.csv,file
+155,BIO3301 1CLCCNS.csv,file
+156,BIO3301 2CLCCNS.csv,file
+157,BIO3302 1.csv,file
+158,BIO3302 2.csv,file
+159,BIO3302 3.csv,file
+160,BIO3302 4.csv,file
+161,BIO3302E 1CLCCNS.csv,file
+162,BIO3302E 2CLCCNS.csv,file
+163,BIO3302E 3CLCCNS.csv,file
+164,BIO3302E 4CLCCNS.csv,file
+165,BIO3302E 5CLCCNS.csv,file
+166,BIO3302E 6CLCCNS.csv,file
+167,BIO3303 1.csv,file
+168,BIO3303 2.csv,file
+169,BIO3303 3.csv,file
+170,BIO3303 4.csv,file
+171,BIO3304 1.csv,file
+172,BIO3304 2.csv,file
+173,BIO3304 3.csv,file
+174,BIO3304 4.csv,file
+175,BIO3330 CLCCNS.csv,file
+176,BIO3345 CLCCNS.csv,file
+177,BIO3356 1CLCCNS.csv,file
+178,BIO3356 2CLCCNS.csv,file
+179,BIO3356 3CLCCNS.csv,file
+180,BIO3356 4CLCCNS.csv,file
+181,BIO3356 5CLCCNS.csv,file
+182,BIO3356 6CLCCNS.csv,file
+183,BIO3370E QTS.csv,file
+184,BIO3372E QTS.csv,file
+185,BIO3373 1TNS.csv,file
+186,BIO3373 2TNS.csv,file
+187,BIO3377 TNS.csv,file
+188,BIO3400E 1QTS.csv,file
+189,BIO3400E 2QTS.csv,file
+190,BIO3401E QTS.csv,file
+191,BIO3403E QTS.csv,file
+192,BIO3405E QTS.csv,file
+193,BIO3411 CLCCNS.csv,file
+194,BIO3504 1TNS.csv,file
+195,BIO3504 2TNS.csv,file
+196,BIO3701 TNS.csv,file
+197,BIO3802E 1CLCCNS.csv,file
+198,BIO3802E 2CLCCNS.csv,file
+199,BIO3803E 1CLCCNS.csv,file
+200,BIO3803E 2CLCCNS.csv,file
+201,BIO3803E 3CLCCNS.csv,file
+202,BIO3803E 4CLCCNS.csv,file
+203,BIO3803E 5CLCCNS.csv,file
+204,BIO3803E 6CLCCNS.csv,file
+205,BIO4071.csv,file
+206,BIO4072.csv,file
+207,BIO4073.csv,file
+208,BIO4074E QTS.csv,file
+209,BIO4076 2TNS.csv,file
+210,BIO4076.csv,file
+211,CHE1048 2CLCCNH.csv,file
+212,CHE1048.csv,file
+213,CHE1052 2CLCCNH.csv,file
+214,CHE1052 3CLCCNH.csv,file
+215,CHE1052 4CLCHD.csv,file
+216,CHE1052 5CLCHD.csv,file
+217,CHE1052.csv,file
+218,CHE1054 10.csv,file
+219,CHE1054 11.csv,file
+220,CHE1054 12.csv,file
+221,CHE1054 13.csv,file
+222,CHE1054 14.csv,file
+223,CHE1054 15.csv,file
+224,CHE1054 1CLCHD.csv,file
+225,CHE1054 2CLCHD.csv,file
+226,CHE1054 3CLCHD.csv,file
+227,CHE1054 4CLCHD.csv,file
+228,CHE1054 5CLCCNKTHH.csv,file
+229,CHE1054 9.csv,file
+230,CHE1057 1.csv,file
+231,CHE1057 2.csv,file
+232,CHE1057 3.csv,file
+233,CHE1057 4.csv,file
+234,CHE1057 5CLCCNS.csv,file
+235,CHE1057 6CLCCNS.csv,file
+236,CHE1057 7QTS.csv,file
+237,CHE1058 1.csv,file
+238,CHE1058 10CLCHD.csv,file
+239,CHE1058 11CLCHD.csv,file
+240,CHE1058 12CLCHD.csv,file
+241,CHE1058 2.csv,file
+242,CHE1058 3.csv,file
+243,CHE1058 4.csv,file
+244,CHE1058 5.csv,file
+245,CHE1058 6.csv,file
+246,CHE1058 7CLCCNH.csv,file
+247,CHE1058 8CLCCNH.csv,file
+248,CHE1058 9CLCHD.csv,file
+249,CHE1062 1.csv,file
+250,CHE1062 2.csv,file
+251,CHE1062 3.csv,file
+252,CHE1062 4.csv,file
+253,CHE1062 5CLCHD.csv,file
+254,CHE1062 6CLCHD.csv,file
+255,CHE1062 7CLCHD.csv,file
+256,CHE1062 8CLCHD.csv,file
+257,CHE1062 9CLCHD.csv,file
+258,CHE1065.csv,file
+259,CHE1067 1CLCHD.csv,file
+260,CHE1067 2CLCHD.csv,file
+261,CHE1067 3.csv,file
+262,CHE1069 1.csv,file
+263,CHE1069 10.csv,file
+264,CHE1069 11.csv,file
+265,CHE1069 12.csv,file
+266,CHE1069 2.csv,file
+267,CHE1069 3.csv,file
+268,CHE1069 4.csv,file
+269,CHE1069 5.csv,file
+270,CHE1069 6.csv,file
+271,CHE1069 7.csv,file
+272,CHE1069 8.csv,file
+273,CHE1069 9.csv,file
+274,CHE1075.csv,file
+275,CHE1075E 1CLCHD.csv,file
+276,CHE1075E 2CLCHD.csv,file
+277,CHE1077 TNH.csv,file
+278,CHE1079 2TNH.csv,file
+279,CHE1079.csv,file
+280,CHE1079E CLCCNH.csv,file
+281,CHE1080 1.csv,file
+282,CHE1080 2.csv,file
+283,CHE1080 3.csv,file
+284,CHE1080 4.csv,file
+285,CHE1080 5.csv,file
+286,CHE1081 1.csv,file
+287,CHE1081 10.csv,file
+288,CHE1081 11CLCCNS.csv,file
+289,CHE1081 12CLCCNS.csv,file
+290,CHE1081 13CLCCNS.csv,file
+291,CHE1081 14QTS.csv,file
+292,CHE1081 15TNS.csv,file
+293,CHE1081 2.csv,file
+294,CHE1081 3.csv,file
+295,CHE1081 4.csv,file
+296,CHE1081 5.csv,file
+297,CHE1081 6.csv,file
+298,CHE1081 7.csv,file
+299,CHE1081 8.csv,file
+300,CHE1081 9.csv,file
+301,CHE1083.csv,file
+302,CHE1084 2TNH.csv,file
+303,CHE1084.csv,file
+304,CHE1085 1.csv,file
+305,CHE1085 2.csv,file
+306,CHE1085 3.csv,file
+307,CHE1090.csv,file
+308,CHE1091 1.csv,file
+309,CHE1091 8CLCCNH.csv,file
+310,CHE1092 2TNH.csv,file
+311,CHE1092.csv,file
+312,CHE1095E TTH.csv,file
+313,CHE1096 1.csv,file
+314,CHE1096 10CLCHD.csv,file
+315,CHE1096 11CLCHD.csv,file
+316,CHE1096 12CLCHD.csv,file
+317,CHE1096 13CLCHD.csv,file
+318,CHE1096 14CLCHD.csv,file
+319,CHE1096 15TNH.csv,file
+320,CHE1096 16TTH.csv,file
+321,CHE1096 17TTH.csv,file
+322,CHE1096 18TTH.csv,file
+323,CHE1096 19TTH.csv,file
+324,CHE1096 2.csv,file
+325,CHE1096 3.csv,file
+326,CHE1096 4CLCCNH.csv,file
+327,CHE1096 5CLCCNH.csv,file
+328,CHE1096 6CLCCNH.csv,file
+329,CHE1096 7CLCCNH.csv,file
+330,CHE1096 8CLCCNH.csv,file
+331,CHE1096 9CLCCNH.csv,file
+332,CHE1099E 1TNH.csv,file
+333,CHE1099E 2TTH.csv,file
+334,CHE1101E 1TNH.csv,file
+335,CHE1101E 2TTH.csv,file
+336,CHE1129 CLCCNH.csv,file
+337,CHE1133 1CLCCNH.csv,file
+338,CHE1133 2CLCHD.csv,file
+339,CHE1133 3TNH.csv,file
+340,CHE1133E TTH.csv,file
+341,CHE1155 1.csv,file
+342,CHE1155 2.csv,file
+343,CHE1155 3.csv,file
+344,CHE1155 4.csv,file
+345,CHE1155 5.csv,file
+346,CHE1155 6.csv,file
+347,CHE1191 1.csv,file
+348,CHE1191 10.csv,file
+349,CHE1191 11.csv,file
+350,CHE1191 12.csv,file
+351,CHE1191 13.csv,file
+352,CHE1191 14.csv,file
+353,CHE1191 15CLCHD.csv,file
+354,CHE1191 16CLCHD.csv,file
+355,CHE1191 17CLCHD.csv,file
+356,CHE1191 18CLCHD.csv,file
+357,CHE1191 19CLCHD.csv,file
+358,CHE1191 2.csv,file
+359,CHE1191 20CLCHD.csv,file
+360,CHE1191 3.csv,file
+361,CHE1191 4.csv,file
+362,CHE1191 5.csv,file
+363,CHE1191 6.csv,file
+364,CHE1191 7.csv,file
+365,CHE1191 8.csv,file
+366,CHE1191 9.csv,file
+367,CHE2008 1.csv,file
+368,CHE2008 2.csv,file
+369,CHE2009 1.csv,file
+370,CHE2009 2.csv,file
+371,CHE2018.csv,file
+372,CHE2019 1.csv,file
+373,CHE2019 2.csv,file
+374,CHE2019 3CLCCNH.csv,file
+375,CHE2019 4CLCCNH.csv,file
+376,CHE2019 5CLCHD.csv,file
+377,CHE2021 2CLCCNH.csv,file
+378,CHE2021.csv,file
+379,CHE2030E 1CLCHD.csv,file
+380,CHE2030E 2CLCHD.csv,file
+381,CHE2061 1CLCHD.csv,file
+382,CHE2061 2CLCHD.csv,file
+383,CHE2061 3CLCHD.csv,file
+384,CHE2061 4CLCHD.csv,file
+385,CHE2061 5CLCHD.csv,file
+386,CHE2102 CTĐB.csv,file
+387,CHE2110 1TNH.csv,file
+388,CHE2110 2TNH.csv,file
+389,CHE2110E TTH.csv,file
+390,CHE2113 2TTH.csv,file
+391,CHE2114.csv,file
+392,CHE2114E 1CLCHD.csv,file
+393,CHE2114E 2CLCHD.csv,file
+394,CHE2115 1TNH.csv,file
+395,CHE2115 2TTH.csv,file
+396,CHE2116 TNH.csv,file
+397,CHE2116E TTH.csv,file
+398,CHE2118E TTH.csv,file
+399,CHE2119 1TNH.csv,file
+400,CHE2119 2TTH.csv,file
+401,CHE2120E TTH.csv,file
+402,CHE2121 TNH.csv,file
+403,CHE2128 TNH.csv,file
+404,CHE2129 TNH.csv,file
+405,CHE2130 TNH.csv,file
+406,CHE2130E TTH.csv,file
+407,CHE2131 TNH.csv,file
+408,CHE2133 1TNH.csv,file
+409,CHE2133 2TTH.csv,file
+410,CHE2145E TTH.csv,file
+411,CHE2147E 1CLCHD.csv,file
+412,CHE2147E 2CLCHD.csv,file
+413,CHE2147E 3TTH.csv,file
+414,CHE3045.csv,file
+415,CHE3045E CLCCNH.csv,file
+416,CHE3211 CTĐB.csv,file
+417,CHE3212 TTH.csv,file
+418,CHE3220 CTĐB.csv,file
+419,CHE3226 TTH.csv,file
+420,CHE3248 TNH.csv,file
+421,CHE3253 2CLCCNH.csv,file
+422,CHE3253.csv,file
+423,CHE3254 2CLCCNH.csv,file
+424,CHE3254.csv,file
+425,CHE3283 1CLCHD.csv,file
+426,CHE3283 2CLCHD.csv,file
+427,CHE3286 1.csv,file
+428,CHE3286 2.csv,file
+429,CHE3286 3CLCCNH.csv,file
+430,CHE3286 4CLCHD.csv,file
+431,CHE3300 1.csv,file
+432,CHE3300 2.csv,file
+433,CHE3300 3CLCHD.csv,file
+434,CHE3300 4CLCHD.csv,file
+435,CHE3301 1CLCHD.csv,file
+436,CHE3301 2CLCHD.csv,file
+437,CHE3301 3CLCHD.csv,file
+438,CHE3301 4CLCHD.csv,file
+439,CHE3301 5CLCHD.csv,file
+440,CHE3301 6CLCCNH.csv,file
+441,CHE3302 1CLCHD.csv,file
+442,CHE3302 2CLCHD.csv,file
+443,CHE3303 2TNH.csv,file
+444,CHE3303 3TNH.csv,file
+445,CHE3303 4.csv,file
+446,CHE3303.csv,file
+447,CHE4052.csv,file
+448,E340 TTKHMT.csv,file
+449,E363 TTKHMT.csv,file
+450,E455 TTKHMT.csv,file
+451,E476 TTKHMT.csv,file
+452,EVF2007 1.csv,file
+453,EVF2032.csv,file
+454,EVS2017.csv,file
+455,EVS2051.csv,file
+456,EVS2051E CLCCNKTMT.csv,file
+457,EVS2109.csv,file
+458,EVS2301 1.csv,file
+459,EVS2301 2.csv,file
+460,EVS2301 3CLCKHMT.csv,file
+461,EVS2302 1.csv,file
+462,EVS2302 2.csv,file
+463,EVS2302 3.csv,file
+464,EVS2302 4.csv,file
+465,EVS2302 5CTĐB.csv,file
+466,EVS2307.csv,file
+467,EVS3158.csv,file
+468,EVS3159 CLCCNKTMT.csv,file
+469,EVS3232.csv,file
+470,EVS3240 1.csv,file
+471,EVS3240 2.csv,file
+472,EVS3240 3.csv,file
+473,EVS3240 4.csv,file
+474,EVS3240 5.csv,file
+475,EVS3241 2CLCKHMT.csv,file
+476,EVS3241.csv,file
+477,EVS3242 1.csv,file
+478,EVS3242 2.csv,file
+479,EVS3242 3.csv,file
+480,EVS3244 1.csv,file
+481,EVS3244 2.csv,file
+482,EVS3245 1.csv,file
+483,EVS3245 2.csv,file
+484,EVS3248.csv,file
+485,EVS3250 1.csv,file
+486,EVS3250 2.csv,file
+487,EVS3250 3CLCKHMT.csv,file
+488,EVS3287.csv,file
+489,EVS3331 1.csv,file
+490,EVS3331 2.csv,file
+491,EVS3402 CTĐB.csv,file
+492,EVS3403.csv,file
+493,EVS3409.csv,file
+494,EVS3410.csv,file
+495,EVS3453.csv,file
+496,EVS3455.csv,file
+497,EVS3459 TTKHMT.csv,file
+498,EVS3460.csv,file
+499,EVS3464 CLCCNKTMT.csv,file
+500,EVS4071 1.csv,file
+501,EVS4071 2.csv,file
+502,EVS4071 3.csv,file
+503,EVS4071 4.csv,file
+504,EVS4071 5.csv,file
+505,EVS4071 6.csv,file
+506,EVS4071 7CLCKHMT.csv,file
+507,EVS4073 1.csv,file
+508,EVS4073 2.csv,file
+509,EVS4073 3CLCCNKTMT.csv,file
+510,EVS4074.csv,file
+511,EVS4075.csv,file
+512,EVS4085.csv,file
+513,FLF1107 1.csv,file
+514,FLF1107 2.csv,file
+515,FLF1107 3.csv,file
+516,FLF1107 6.csv,file
+517,GEO1050 1.csv,file
+518,GEO1050 2.csv,file
+519,GEO1050 3.csv,file
+520,GEO1050 4.csv,file
+521,GEO1050 5.csv,file
+522,GEO1050 6.csv,file
+523,GEO2016.csv,file
+524,GEO2019.csv,file
+525,GEO2025.csv,file
+526,GEO2059 1.csv,file
+527,GEO2059 2.csv,file
+528,GEO2059 3.csv,file
+529,GEO2091.csv,file
+530,GEO2093.csv,file
+531,GEO2100.csv,file
+532,GEO2110.csv,file
+533,GEO2300 1.csv,file
+534,GEO2300 2.csv,file
+535,GEO2300 3.csv,file
+536,GEO2300 4.csv,file
+537,GEO2304.csv,file
+538,GEO2313.csv,file
+539,GEO2319.csv,file
+540,GEO2320 1.csv,file
+541,GEO2320 2.csv,file
+542,GEO2400 1.csv,file
+543,GEO2400 2.csv,file
+544,GEO2404 1.csv,file
+545,GEO2404 2.csv,file
+546,GEO2405.csv,file
+547,GEO3000.csv,file
+548,GEO3119.csv,file
+549,GEO3120.csv,file
+550,GEO3121.csv,file
+551,GEO3138.csv,file
+552,GEO3143.csv,file
+553,GEO3157.csv,file
+554,GEO3208.csv,file
+555,GEO3209.csv,file
+556,GEO3210 1.csv,file
+557,GEO3210 2.csv,file
+558,GEO3219.csv,file
+559,GEO3224.csv,file
+560,GEO3227.csv,file
+561,GEO3230.csv,file
+562,GEO3237.csv,file
+563,GEO3249.csv,file
+564,GEO3263.csv,file
+565,GEO3265.csv,file
+566,GEO3266.csv,file
+567,GEO3269.csv,file
+568,GEO3270.csv,file
+569,GEO3276.csv,file
+570,GEO3293.csv,file
+571,GEO3304.csv,file
+572,GEO3305.csv,file
+573,GEO3360.csv,file
+574,GEO3400.csv,file
+575,GEO3402 1.csv,file
+576,GEO3402 2.csv,file
+577,GEO3403.csv,file
+578,GEO4057.csv,file
+579,GEO4070.csv,file
+580,GEO4071.csv,file
+581,GEO4073.csv,file
+582,GEO4074.csv,file
+583,GEO4075.csv,file
+584,GLO2038 1.csv,file
+585,GLO2038 2.csv,file
+586,GLO2056.csv,file
+587,GLO2066.csv,file
+588,GLO2069 CLCĐC.csv,file
+589,GLO2093.csv,file
+590,GLO2099 1.csv,file
+591,GLO2099 2.csv,file
+592,GLO2100 CLCĐC.csv,file
+593,GLO3070.csv,file
+594,GLO3122.csv,file
+595,GLO3157 1.csv,file
+596,GLO3157 2.csv,file
+597,GLO3158.csv,file
+598,GLO3196 CLCĐC.csv,file
+599,GLO3197 CLCĐC.csv,file
+600,GLO3198.csv,file
+601,GLO3227.csv,file
+602,GLO3228.csv,file
+603,GLO3229.csv,file
+604,GLO3230.csv,file
+605,GLO4058.csv,file
+606,GLO4059.csv,file
+607,HIS1001 1.csv,file
+608,HIS1001 10.csv,file
+609,HIS1001 11.csv,file
+610,HIS1001 12.csv,file
+611,HIS1001 2.csv,file
+612,HIS1001 3.csv,file
+613,HIS1001 4.csv,file
+614,HIS1001 5.csv,file
+615,HIS1001 6.csv,file
+616,HIS1001 7.csv,file
+617,HIS1001 8.csv,file
+618,HIS1001 9.csv,file
+619,HIS1056 1.csv,file
+620,HIS1056 10.csv,file
+621,HIS1056 2.csv,file
+622,HIS1056 3.csv,file
+623,HIS1056 4.csv,file
+624,HIS1056 5.csv,file
+625,HIS1056 6.csv,file
+626,HIS1056 7.csv,file
+627,HIS1056 8.csv,file
+628,HIS1056 9.csv,file
+629,HMO2021.csv,file
+630,HMO2106.csv,file
+631,HMO2110.csv,file
+632,HMO2201.csv,file
+633,HMO3178.csv,file
+634,HMO3181.csv,file
+635,HMO3204.csv,file
+636,HMO3302.csv,file
+637,HMO3303.csv,file
+638,HMO3306.csv,file
+639,HMO3307.csv,file
+640,HMO3311.csv,file
+641,HMO3312.csv,file
+642,HMO3321.csv,file
+643,HMO3326.csv,file
+644,HMO3507.csv,file
+645,HMO3521.csv,file
+646,HMO3528.csv,file
+647,HMO3541.csv,file
+648,HMO3600.csv,file
+649,HMO3601.csv,file
+650,HMO3602.csv,file
+651,HMO3603.csv,file
+652,HMO3608.csv,file
+653,HMO3609.csv,file
+654,HMO3610.csv,file
+655,HMO3611.csv,file
+656,HMO3612.csv,file
+657,HMO4070.csv,file
+658,HMO4071.csv,file
+659,HMO4072.csv,file
+660,INM1000 1.csv,file
+661,INM1000 11.csv,file
+662,INM1000 12.csv,file
+663,INM1000 13.csv,file
+664,INM1000 14.csv,file
+665,INM1000 15.csv,file
+666,INM1000 16.csv,file
+667,INM1000 17.csv,file
+668,INM1000 18.csv,file
+669,INM1000 19.csv,file
+670,INM1000 2.csv,file
+671,INM1000 20.csv,file
+672,INM1000 21.csv,file
+673,INM1000 22.csv,file
+674,INM1000 23.csv,file
+675,INM1000 24.csv,file
+676,INM1000 3.csv,file
+677,INM1000 4.csv,file
+678,INM1000 5.csv,file
+679,INM1000 6.csv,file
+680,INM1000 7.csv,file
+681,INM1000 8.csv,file
+682,INM1000 9.csv,file
+683,INT1005 1.csv,file
+684,INT1005 2.csv,file
+685,INT1005 3.csv,file
+686,INT1005 4.csv,file
+687,K300 TTKHMT.csv,file
+688,MAT1060 1.csv,file
+689,MAT1060 2.csv,file
+690,MAT1060 3.csv,file
+691,MAT1060 4.csv,file
+692,MAT1060 5.csv,file
+693,MAT1076.csv,file
+694,MAT1090 1.csv,file
+695,MAT1090 2.csv,file
+696,MAT1091 1.csv,file
+697,MAT1091 10.csv,file
+698,MAT1091 2.csv,file
+699,MAT1091 3.csv,file
+700,MAT1091 4.csv,file
+701,MAT1091 5.csv,file
+702,MAT1091 7.csv,file
+703,MAT1091 8.csv,file
+704,MAT1092 1.csv,file
+705,MAT1092 10CLCHD.csv,file
+706,MAT1092 11CLCHD.csv,file
+707,MAT1092 12TTH.csv,file
+708,MAT1092 2.csv,file
+709,MAT1092 3.csv,file
+710,MAT1092 5.csv,file
+711,MAT1092 6.csv,file
+712,MAT1092 7.csv,file
+713,MAT1092 8CLCCNH.csv,file
+714,MAT1092 9CLCCNH.csv,file
+715,MAT1101 1.csv,file
+716,MAT1101 10.csv,file
+717,MAT1101 11.csv,file
+718,MAT1101 12.csv,file
+719,MAT1101 13.csv,file
+720,MAT1101 14.csv,file
+721,MAT1101 3.csv,file
+722,MAT1101 4.csv,file
+723,MAT1101 5.csv,file
+724,MAT1101 6.csv,file
+725,MAT1101 7.csv,file
+726,MAT1101 9.csv,file
+727,MAT1192 1.csv,file
+728,MAT1192 2.csv,file
+729,MAT1192 3.csv,file
+730,MAT1192 4.csv,file
+731,MAT1192 5CLCCNS.csv,file
+732,MAT1192 6CLCCNS.csv,file
+733,MAT1192 7CLCCNS.csv,file
+734,MAT1192 8QTS.csv,file
+735,MAT1259 TNS.csv,file
+736,MAT1292 1TNH.csv,file
+737,MAT1292 2TNS.csv,file
+738,MAT2034.csv,file
+739,MAT2301 1.csv,file
+740,MAT2301 2.csv,file
+741,MAT2301 3.csv,file
+742,MAT2301 4.csv,file
+743,MAT2303 1.csv,file
+744,MAT2303 2.csv,file
+745,MAT2303 3.csv,file
+746,MAT2303 4.csv,file
+747,MAT2303 5TNT.csv,file
+748,MAT2306 1.csv,file
+749,MAT2306 2.csv,file
+750,MAT2308.csv,file
+751,MAT2310.csv,file
+752,MAT2311 2TNT.csv,file
+753,MAT2311.csv,file
+754,MAT2314 2TNT.csv,file
+755,MAT2314.csv,file
+756,MAT2315.csv,file
+757,MAT2315E CLCMTKHTT.csv,file
+758,MAT2317 1.csv,file
+759,MAT2317 2.csv,file
+760,MAT2317 3CLCMTKHTT.csv,file
+761,MAT2317 4CLCMTKHTT.csv,file
+762,MAT2317 5CLCMTKHTT.csv,file
+763,MAT2317 6CLCMTKHTT.csv,file
+764,MAT2318 1.csv,file
+765,MAT2318 2.csv,file
+766,MAT2321 TNT.csv,file
+767,MAT2403 1.csv,file
+768,MAT2403 2.csv,file
+769,MAT2403 3.csv,file
+770,MAT2403 4CLCMTKHTT.csv,file
+771,MAT2403 5CLCMTKHTT.csv,file
+772,MAT2406.csv,file
+773,MAT2407 1.csv,file
+774,MAT2407 2.csv,file
+775,MAT2407 3TNT.csv,file
+776,MAT2411E 1CLCMTKHTT.csv,file
+777,MAT2411E 2CLCMTKHTT.csv,file
+778,MAT2502 1.csv,file
+779,MAT2502 2.csv,file
+780,MAT2502 3CLCMTKHTT.csv,file
+781,MAT2502 4CLCMTKHTT.csv,file
+782,MAT2502 5CLCMTKHTT.csv,file
+783,MAT2502 6CLCMTKHTT.csv,file
+784,MAT2502 7.csv,file
+785,MAT3101 TNT.csv,file
+786,MAT3300 1.csv,file
+787,MAT3300 2.csv,file
+788,MAT3300 3TNT.csv,file
+789,MAT3301.csv,file
+790,MAT3305.csv,file
+791,MAT3306.csv,file
+792,MAT3318 2TNT.csv,file
+793,MAT3322 TNT.csv,file
+794,MAT3334.csv,file
+795,MAT3340 TNT.csv,file
+796,MAT3344 1.csv,file
+797,MAT3344 2.csv,file
+798,MAT3344 3TNT.csv,file
+799,MAT3347 1.csv,file
+800,MAT3347 2.csv,file
+801,MAT3363 TNT.csv,file
+802,MAT3365.csv,file
+803,MAT3372.csv,file
+804,MAT3373.csv,file
+805,MAT3373E 1CLCMTKHTT.csv,file
+806,MAT3373E 2CLCMTKHTT.csv,file
+807,MAT3379.csv,file
+808,MAT3381.csv,file
+809,MAT3452 1.csv,file
+810,MAT3452 2.csv,file
+811,MAT3500 1.csv,file
+812,MAT3500 2.csv,file
+813,MAT3500 3CLCMTKHTT.csv,file
+814,MAT3500 4CLCMTKHTT.csv,file
+815,MAT3504 1.csv,file
+816,MAT3504 2.csv,file
+817,MAT3505 1.csv,file
+818,MAT3505 2.csv,file
+819,MAT3505 3CLCMTKHTT.csv,file
+820,MAT3505 4CLCMTKHTT.csv,file
+821,MAT3505 5CLCMTKHTT.csv,file
+822,MAT3505 6CLCMTKHTT.csv,file
+823,MAT3506.csv,file
+824,MAT3507.csv,file
+825,MAT3514 1.csv,file
+826,MAT3514 2.csv,file
+827,MAT3517E 1CLCMTKHTT.csv,file
+828,MAT3517E 2CLCMTKHTT.csv,file
+829,MAT3525.csv,file
+830,MAT3532 1CLCMTKHTT.csv,file
+831,MAT3532 2CLCMTKHTT.csv,file
+832,MAT3532 3CLCMTKHTT.csv,file
+833,MAT3532 4CLCMTKHTT.csv,file
+834,MAT3533 2CLCMTKHTT.csv,file
+835,MAT3533 3CLCMTKHTT.csv,file
+836,MAT3533.csv,file
+837,MAT3535 CLCMTKHTT.csv,file
+838,MAT3539 1.csv,file
+839,MAT3539 2.csv,file
+840,MAT3544 1.csv,file
+841,MAT3544 2.csv,file
+842,MAT3551E 1CLCMTKHTT.csv,file
+843,MAT3551E 2CLCMTKHTT.csv,file
+844,MAT3551E 3CLCMTKHTT.csv,file
+845,MAT3551E 4CLCMTKHTT.csv,file
+846,MAT3552E 1CLCMTKHTT.csv,file
+847,MAT3552E 2CLCMTKHTT.csv,file
+848,MAT3552E 3CLCMTKHTT.csv,file
+849,MAT3552E 4CLCMTKHTT.csv,file
+850,MAT3555 1CLCMTKHTT.csv,file
+851,MAT3555 2CLCMTKHTT.csv,file
+852,MAT3557.csv,file
+853,MAT3562E 1CLCMTKHTT.csv,file
+854,MAT3562E 2CLCMTKHTT.csv,file
+855,MAT3563 CLCMTKHTT.csv,file
+856,MAT3565 CLCMTKHTT.csv,file
+857,MAT3567 CLCMTKHTT.csv,file
+858,MAT4070.csv,file
+859,MAT4072.csv,file
+860,MAT4073.csv,file
+861,MAT4080.csv,file
+862,MAT4082.csv,file
+863,MNS1052.csv,file
+864,PEC1008 1.csv,file
+865,PEC1008 10.csv,file
+866,PEC1008 11.csv,file
+867,PEC1008 12.csv,file
+868,PEC1008 13.csv,file
+869,PEC1008 14.csv,file
+870,PEC1008 15.csv,file
+871,PEC1008 16.csv,file
+872,PEC1008 17.csv,file
+873,PEC1008 18.csv,file
+874,PEC1008 2.csv,file
+875,PEC1008 3.csv,file
+876,PEC1008 4.csv,file
+877,PEC1008 5.csv,file
+878,PEC1008 6.csv,file
+879,PEC1008 7.csv,file
+880,PEC1008 8.csv,file
+881,PEC1008 9.csv,file
+882,PES1005 1.csv,file
+883,PES1005 2.csv,file
+884,PES1005 3.csv,file
+885,PES1005 4.csv,file
+886,PES1015 1.csv,file
+887,PES1015 10.csv,file
+888,PES1015 3.csv,file
+889,PES1015 4.csv,file
+890,PES1015 5.csv,file
+891,PES1015 6.csv,file
+892,PES1015 7.csv,file
+893,PES1015 8.csv,file
+894,PES1015 9.csv,file
+895,PES1017 1.csv,file
+896,PES1017 2.csv,file
+897,PES1017 3.csv,file
+898,PES1017 4.csv,file
+899,PES1017 5.csv,file
+900,PES1017 6.csv,file
+901,PES1020 1.csv,file
+902,PES1020 3.csv,file
+903,PES1020 7.csv,file
+904,PES1045 1.csv,file
+905,PES1045 2.csv,file
+906,PES1045 3.csv,file
+907,PES1045 4.csv,file
+908,PES1050 1.csv,file
+909,PES1050 2.csv,file
+910,PES1050 3.csv,file
+911,PES1050 4.csv,file
+912,PES1050 5.csv,file
+913,PES1050 6.csv,file
+914,PHI1002 1.csv,file
+915,PHI1002 10.csv,file
+916,PHI1002 11.csv,file
+917,PHI1002 12.csv,file
+918,PHI1002 2.csv,file
+919,PHI1002 3.csv,file
+920,PHI1002 4.csv,file
+921,PHI1002 5.csv,file
+922,PHI1002 6.csv,file
+923,PHI1002 7.csv,file
+924,PHI1002 8.csv,file
+925,PHI1002 9.csv,file
+926,PHI1006 1.csv,file
+927,PHI1006 10.csv,file
+928,PHI1006 2.csv,file
+929,PHI1006 3.csv,file
+930,PHI1006 4.csv,file
+931,PHI1006 5.csv,file
+932,PHI1006 6.csv,file
+933,PHI1006 7.csv,file
+934,PHI1006 8.csv,file
+935,PHI1006 9.csv,file
+936,PHY1012 TNL.csv,file
+937,PHY1013 TNL.csv,file
+938,PHY1020 1.csv,file
+939,PHY1020 2.csv,file
+940,PHY1020 3.csv,file
+941,PHY1020 4CTĐB.csv,file
+942,PHY1070 1.csv,file
+943,PHY1070 2.csv,file
+944,PHY1100 1.csv,file
+945,PHY1100 10.csv,file
+946,PHY1100 11.csv,file
+947,PHY1100 12.csv,file
+948,PHY1100 13.csv,file
+949,PHY1100 14.csv,file
+950,PHY1100 2.csv,file
+951,PHY1100 4.csv,file
+952,PHY1100 7.csv,file
+953,PHY1100 8.csv,file
+954,PHY1100 9.csv,file
+955,PHY1100E CLCCNKTMT.csv,file
+956,PHY1103 1.csv,file
+957,PHY1103 10.csv,file
+958,PHY1103 11.csv,file
+959,PHY1103 12.csv,file
+960,PHY1103 13CLCMTKHTT.csv,file
+961,PHY1103 14CLCMTKHTT.csv,file
+962,PHY1103 15QTS.csv,file
+963,PHY1103 16CLCCNH.csv,file
+964,PHY1103 17CLCCNH.csv,file
+965,PHY1103 18CLCHD.csv,file
+966,PHY1103 19CLCHD.csv,file
+967,PHY1103 2.csv,file
+968,PHY1103 3.csv,file
+969,PHY1103 4.csv,file
+970,PHY1103 5.csv,file
+971,PHY1103 6.csv,file
+972,PHY1103 7.csv,file
+973,PHY1104 11.csv,file
+974,PHY1104 12.csv,file
+975,PHY1104 14.csv,file
+976,PHY1104 3.csv,file
+977,PHY1104 5.csv,file
+978,PHY1104 6.csv,file
+979,PHY1104 7.csv,file
+980,PHY1104 8.csv,file
+981,PHY1106 QTL.csv,file
+982,PHY1108 1.csv,file
+983,PHY1108 2.csv,file
+984,PHY1108 3.csv,file
+985,PHY1108 4.csv,file
+986,PHY1108 5.csv,file
+987,PHY1108 6.csv,file
+988,PHY1108 7.csv,file
+989,PHY1108 8QTL.csv,file
+990,PHY1113 1.csv,file
+991,PHY1113 2.csv,file
+992,PHY1113 3.csv,file
+993,PHY1113 4.csv,file
+994,PHY1113 5.csv,file
+995,PHY1113 6.csv,file
+996,PHY1113 7.csv,file
+997,PHY1113 8TNL.csv,file
+998,PHY1161 1CTĐB.csv,file
+999,PHY1161 2TTH.csv,file
+1000,PHY2000 1.csv,file
+1001,PHY2000 2.csv,file
+1002,PHY2000 3.csv,file
+1003,PHY2000 4TNL.csv,file
+1004,PHY2000E QTL.csv,file
+1005,PHY2004 2QTL.csv,file
+1006,PHY2004.csv,file
+1007,PHY2064 TNL.csv,file
+1008,PHY2064E QTL.csv,file
+1009,PHY2166 TNL.csv,file
+1010,PHY2206 1.csv,file
+1011,PHY2206 2.csv,file
+1012,PHY2206 3.csv,file
+1013,PHY2302 1.csv,file
+1014,PHY2302 2.csv,file
+1015,PHY2302 3.csv,file
+1016,PHY2302 4.csv,file
+1017,PHY2302 5.csv,file
+1018,PHY2302 6.csv,file
+1019,PHY2302 7.csv,file
+1020,PHY2302 8TNL.csv,file
+1021,PHY2302E QTL.csv,file
+1022,PHY2303 TNL.csv,file
+1023,PHY2304 1.csv,file
+1024,PHY2304 2.csv,file
+1025,PHY2304 3.csv,file
+1026,PHY2304 4.csv,file
+1027,PHY2304 5.csv,file
+1028,PHY2304 6.csv,file
+1029,PHY2304 7.csv,file
+1030,PHY2304E QTL.csv,file
+1031,PHY2306.csv,file
+1032,PHY2306E QTL.csv,file
+1033,PHY2307 1.csv,file
+1034,PHY2307 10.csv,file
+1035,PHY2307 12 QTL.csv,file
+1036,PHY2307 13TNL.csv,file
+1037,PHY2307 2.csv,file
+1038,PHY2307 3.csv,file
+1039,PHY2307 4.csv,file
+1040,PHY2307 5.csv,file
+1041,PHY2307 6.csv,file
+1042,PHY2307 7.csv,file
+1043,PHY2307 8.csv,file
+1044,PHY2307 9.csv,file
+1045,PHY2308 QTL.csv,file
+1046,PHY2309 1.csv,file
+1047,PHY2309 2.csv,file
+1048,PHY2309 3.csv,file
+1049,PHY2309 4.csv,file
+1050,PHY2309 5.csv,file
+1051,PHY2309 6.csv,file
+1052,PHY2309 7.csv,file
+1053,PHY2309 8TNL.csv,file
+1054,PHY2310.csv,file
+1055,PHY2404 TNL.csv,file
+1056,PHY2500 1.csv,file
+1057,PHY2500 2.csv,file
+1058,PHY2500 3.csv,file
+1059,PHY2502 1.csv,file
+1060,PHY2502 2.csv,file
+1061,PHY3163 2QTL.csv,file
+1062,PHY3163.csv,file
+1063,PHY3167 1.csv,file
+1064,PHY3167 2.csv,file
+1065,PHY3176.csv,file
+1066,PHY3301 1.csv,file
+1067,PHY3301 2.csv,file
+1068,PHY3302.csv,file
+1069,PHY3314.csv,file
+1070,PHY3317.csv,file
+1071,PHY3343.csv,file
+1072,PHY3346 TNL.csv,file
+1073,PHY3355 2CTĐB.csv,file
+1074,PHY3355.csv,file
+1075,PHY3367.csv,file
+1076,PHY3428.csv,file
+1077,PHY3503 1.csv,file
+1078,PHY3503 2.csv,file
+1079,PHY3503 3.csv,file
+1080,PHY3506.csv,file
+1081,PHY3506E QTL.csv,file
+1082,PHY3507 1.csv,file
+1083,PHY3507 10.csv,file
+1084,PHY3507 11.csv,file
+1085,PHY3507 15.csv,file
+1086,PHY3507 16.csv,file
+1087,PHY3507 17QTL.csv,file
+1088,PHY3507 2.csv,file
+1089,PHY3507 4.csv,file
+1090,PHY3507 6.csv,file
+1091,PHY3507 7.csv,file
+1092,PHY3507 8.csv,file
+1093,PHY3507 9.csv,file
+1094,PHY3508 1.csv,file
+1095,PHY3508 2.csv,file
+1096,PHY3508 3.csv,file
+1097,PHY3508 4TNL.csv,file
+1098,PHY3508E QTL.csv,file
+1099,PHY3509 TNL.csv,file
+1100,PHY3603 TNL.csv,file
+1101,PHY3605E QTL.csv,file
+1102,PHY3606 2TNL.csv,file
+1103,PHY3606.csv,file
+1104,PHY3608 2TNL.csv,file
+1105,PHY3608.csv,file
+1106,PHY3608E QTL.csv,file
+1107,PHY3609 1.csv,file
+1108,PHY3609 2.csv,file
+1109,PHY3610 1.csv,file
+1110,PHY3610 2.csv,file
+1111,PHY3610 3.csv,file
+1112,PHY3610 4TNL.csv,file
+1113,PHY3610E QTL.csv,file
+1114,PHY3623 1.csv,file
+1115,PHY3623 2.csv,file
+1116,PHY3624 1.csv,file
+1117,PHY3624 2.csv,file
+1118,PHY3624 3.csv,file
+1119,PHY3700.csv,file
+1120,PHY3702.csv,file
+1121,PHY3703.csv,file
+1122,PHY3802.csv,file
+1123,PHY4050.csv,file
+1124,PHY4082.csv,file
+1125,PHY4090.csv,file
+1126,POL1001 1.csv,file
+1127,POL1001 10.csv,file
+1128,POL1001 11.csv,file
+1129,POL1001 12.csv,file
+1130,POL1001 2.csv,file
+1131,POL1001 3.csv,file
+1132,POL1001 4.csv,file
+1133,POL1001 5.csv,file
+1134,POL1001 6.csv,file
+1135,POL1001 7.csv,file
+1136,POL1001 8.csv,file
+1137,POL1001 9.csv,file
+1138,SMP1010 1.csv,file
+1139,SMP1010 2.csv,file
+1140,SMP1010 3.csv,file
+1141,SMP1010 4CLCRHM.csv,file
+1142,SMP1012 1.csv,file
+1143,SMP1012 2.csv,file
+1144,SMP1012 3.csv,file
+1145,SMP1012 4.csv,file
+1146,SMP1012 5.csv,file
+1147,SMP1012 6.csv,file
+1148,SMP1012 7.csv,file
+1149,SMP1012 8.csv,file
+1150,SMP1055 1.csv,file
+1151,SMP1055 3.csv,file
+1152,SMP1055 4.csv,file
+1153,SMP2052 1.csv,file
+1154,SMP2052 2.csv,file
+1155,SMP2052 3.csv,file
+1156,SMP2052 4.csv,file
+1157,SMP2052 5.csv,file
+1158,SMP2052 6.csv,file
+1159,SMP2053 1.csv,file
+1160,SMP2053 2.csv,file
+1161,SMP2054 1.csv,file
+1162,SMP2054 2.csv,file
+1163,SMP2401 1CLCRHM.csv,file
+1164,SMP2401 2CLCRHM.csv,file
+1165,SMP2401 3CLCRHM.csv,file
+1166,SMP2701 1.csv,file
+1167,SMP2701 2.csv,file
+1168,V370 TTKHMT.csv,file
+1169,exams.csv,file
+1170,week06_assignment01_student06_NguyenNgocAnh_image_computer.png,file
+1171,week06_assignment01_student06_NguyenNgocAnh_output.csv,file
+1172,week06_assignment01_student06_NguyenNgocAnh_test.csv,file
+1173,week06_assignment04_student06_NguyenNgocAnh_image_input.png,file
+1174,week06_assignment04_student06_NguyenNgocAnh_image_output.png,file
+1175,week06_assignment05_student06_NguyenNgocAnh,folder
+1176,week06_assignment05_student06_NguyenNgocAnh_files.csv,file
+1177,week06_assignment06_student06_NguyenNgocAnh_DataFrame_1.csv,file
+1178,week06_assignment06_student06_NguyenNgocAnh_DataFrame_2.csv,file
+1179,week06_assignment06_student06_NguyenNgocAnh_DataFrame_3.csv,file
+1180,week06_assignment06_student06_NguyenNgocAnh_DataFrame_4.csv,file
+1181,week06_assignment01_student06_NguyenNgocAnh.py,file
+1182,week06_assignment02_student06_NguyenNgocAnh.py,file
+1183,week06_assignment04_student06_NguyenNgocAnh.py,file
+1184,week06_assignment05_student06_NguyenNgocAnh.py,file
+1185,week06_assignment06_student06_NguyenNgocAnh.py,file

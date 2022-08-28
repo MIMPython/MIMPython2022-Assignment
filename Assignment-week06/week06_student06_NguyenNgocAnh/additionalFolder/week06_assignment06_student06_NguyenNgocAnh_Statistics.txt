@@ -1,0 +1,4 @@
+Tong so sinh vien: 5725
+Tong so lop hoc: 1165
+Tong so mon hoc: 564
+So mon trung binh 1 sv dang ki: 5.637903930131005
